@@ -19,6 +19,7 @@ executable cabal-sign
                        zlib,
                        tar,
                        bytestring,
+                       containers,
                        directory,
                        cereal,
                        filepath,
